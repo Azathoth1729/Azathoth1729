@@ -1,6 +1,6 @@
 ### Hi there  <img src="wave.gif" width="25">
 
-I'm a three year undergraduate student at Sichuan University.
+I'm a four-year undergraduate student at Sichuan University.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa1203528272@gmail.com)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Azathoth1729)
@@ -8,24 +8,26 @@ I'm a three year undergraduate student at Sichuan University.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azathoth1729)
 
 - 🌱 I’m currently learning how to write real world application in rust.
+
 - ✨ I'm interested in rust, functional programming and mathematics.
 
 - 😄 Pronouns: he / him
 
-### Work env
+### Work Env
 
 ![Manjaro Badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jetbrains Badge](https://img.shields.io/badge/Jetbrains-FF69B4?&style=for-the-badge&logo=jetbrains&logoColor=black)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Xmonad Badge](https://img.shields.io/badge/Xmonad-red?style=for-the-badge)
 ![Starship Badge](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
 ![Alacritty Badge](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jetbrains Badge](https://img.shields.io/badge/Jetbrains-FF69B4?&style=for-the-badge&logo=jetbrains&logoColor=black)
 ![Neovim Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Skills
 
 ![Rust Badge](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=black)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-6495ED?style=for-the-badge&logo=python&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +41,7 @@ I'm a three year undergraduate student at Sichuan University.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azathoth1729&hide=C,Makefile&layout=compact&langs_count=7&theme=radical)
 
-### Other hobbies
+<!-- ### Other hobbies
 
 #### Games
 
@@ -50,9 +52,9 @@ I'm a three year undergraduate student at Sichuan University.
 #### Music
 
 - Electronic music: [Melodic Dubstep][melodic-dubstep] / [Trance][trance]
-- J-pop: [TUYU][tuyu] / [Yoasobi][yoasobi] / [Zutomayo][zutomayo] / [MimimemeMIMI][mimimememimi]
+- J-pop:  [Yoasobi][yoasobi] / [Zutomayo][zutomayo] / ...
 - [Jay Chou][jaychou] / [JJ Lin][jjlin]
-- [Touhou][touhou] Music
+- [Touhou][touhou] Music -->
 
 <!-- game -->
 [dark-souls-3]: https://store.steampowered.com/app/374320/DARK_SOULS_III
