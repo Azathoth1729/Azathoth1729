@@ -1,6 +1,5 @@
 ### Hi there  <img src="wave.gif" width="25">
 
-I'm a four-year undergraduate student at Sichuan University.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa1203528272@gmail.com)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Azathoth1729)
@@ -8,6 +7,8 @@ I'm a four-year undergraduate student at Sichuan University.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azathoth1729)
 
 - 💼 I'm currently working as an ADAS (Advanced Driver Assistance Systems) engineer at Pony.ai.
+
+- 🏫 I spent four years as an undergraduate at Sichuan University.
 
 - 🌱 In spare time, I’m learning how to write real world application in rust.
 
@@ -81,18 +82,3 @@ I'm a four-year undergraduate student at Sichuan University.
 
 [jaychou]: http://www.jvrmusic.com/artist/profile/1150822038412333056
 [jjlin]: https://www.jjlin.com
-
-<!--
-**Azathoth1729/Azathoth1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
