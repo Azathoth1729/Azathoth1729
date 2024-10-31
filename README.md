@@ -6,13 +6,13 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-FFFFF0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azathothe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azathoth1729)
 
-- 💼 I'm currently working as an ADAS (Advanced Driver Assistance Systems) engineer at Pony.ai.
+- 💼 I'm currently working as an PNC (Planning and Control) engineer at Pony.ai.
 
 - 🏫 I spent four years as an undergraduate at Sichuan University.
 
-- 🌱 In spare time, I’m learning how to write real world application in rust.
+- ✨ I'm interested in rust, functional programming, linux and mathematics.
 
-- ✨ I'm interested in rust, functional programming and mathematics.
+- 🌱 In spare time, I enjoy listening japanese music and playing guitar.
 
 - 😄 Pronouns: he / him.
 
